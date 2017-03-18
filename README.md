@@ -1,0 +1,1 @@
+This applet converts Pockels cell voltage to percent laser output and vice versa.
